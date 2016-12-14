@@ -1,2 +1,6 @@
 # gitskills
-feature1 & master
+<<<<<<< HEAD
+feature1 and master
+=======
+feature1 and master
+>>>>>>> feature1
